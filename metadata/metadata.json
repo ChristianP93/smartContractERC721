@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Dog.", 
+  "external_url": "", 
+  "image": "https://ipfs.filebase.io/ipfs/QmaPB1vTtqUqf2rsBWxCWjhNnFigCPz4Dr6tcRMsvj5h2S", 
+  "name": "Node",
+  "attributes": [ 
+  {
+    "trait_type": "Coolness", 
+    "value": "a lot!"
+  }, 
+  {
+    "trait_type": "Mood", 
+    "value": "Relaxed, very relaxed"
+  }
+ ] 
+}
